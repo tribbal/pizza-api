@@ -1,0 +1,42 @@
+[ FEATURES DA APi ]
+
+Listar Pizzas
+Incluir Pedido no Carrinho
+
+Exibir Modo de Pagamento
+Cadastrar Usuario
+
+Enviar Pedido a Pizzaria
+
+### MAPEAMENTO DE OBJETOS ###
+
+[ PIZZA ]
++id
++sabor 
++img
++Tamanho
++numeroFatias
++preco
++complemento
++ingredientes
+
+exibirPizza( id ) retur obj
+
+listarPizzas() return  Array objetos
+
+cadastrarPizza() return boolean true/false
+
+editar( id ) return boolean 
+
+excluir( id ) return boolean
+
+
+ 
+
+
+
+
+
+
+
+
